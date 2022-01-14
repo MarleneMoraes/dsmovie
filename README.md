@@ -1,5 +1,5 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
-Projeto de app full-stack responsivo de avaliação de filmes com armazenamento em banco de dados relacional dividido em 4 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo.
+Projeto de app full-stack responsivo de avaliação de filmes, realizado em monorepo e com armazenamento em banco de dados relacional dividido em 4 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. O site em deploy pode ser visto <a href="https://dsmovie-project.netlify.app/" target="_blank">aqui</a>.
 
 ## Tecnologias
 O sistema utiliza React em seu front-end e Spring no back-end.
@@ -49,4 +49,4 @@ O objetivo deste treinamento é aprofundar meus conhecimentos em Spring, framewo
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 
-
+> Status do projeto: Concluído :heavy_check_mark:
