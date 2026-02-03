@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dsmovie/static/css/main.48ee14b3.css",
-    "main.js": "/dsmovie/static/js/main.c86e1fd5.js",
+    "main.js": "/dsmovie/static/js/main.9cd221e9.js",
     "static/media/github.svg": "/dsmovie/static/media/github.914cb88d263c481a85cabb240d430f81.svg",
     "index.html": "/dsmovie/index.html",
     "static/media/star-empty.svg": "/dsmovie/static/media/star-empty.6e6ce0dcbb23a24cde111ff503161abb.svg",
@@ -9,10 +9,10 @@
     "static/media/star-full.svg": "/dsmovie/static/media/star-full.e2ed9b570c0abd9e802e9f090fd2ab10.svg",
     "static/media/arrow.svg": "/dsmovie/static/media/arrow.e376b70c4cdfdb462a7354609c84d7f4.svg",
     "main.48ee14b3.css.map": "/dsmovie/static/css/main.48ee14b3.css.map",
-    "main.c86e1fd5.js.map": "/dsmovie/static/js/main.c86e1fd5.js.map"
+    "main.9cd221e9.js.map": "/dsmovie/static/js/main.9cd221e9.js.map"
   },
   "entrypoints": [
     "static/css/main.48ee14b3.css",
-    "static/js/main.c86e1fd5.js"
+    "static/js/main.9cd221e9.js"
   ]
 }
