@@ -5,84 +5,84 @@
       "title": "The Witcher",
       "score": 4.5,
       "count": 25,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrPpUjMUrse9znS3nS7iT6dfelP.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/zU0Y9pS6X3Sv996Z7YqI89vO0v.jpg"
     },
     {
       "id": 2,
       "title": "Inception",
       "score": 4.8,
       "count": 142,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gk7Y98S0A3lhF3Z9n9Xvbpq73h.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/9gk7Y98S0A3lhF3Z9n9Xvbpq73h.jpg"
     },
     {
       "id": 3,
       "title": "Spider-Man: No Way Home",
       "score": 4.9,
       "count": 210,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g0dhYtWybi9UOSYfku9S5biUMW.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/1g0dhYtWybi9UOSYfku9S5biUMW.jpg"
     },
     {
       "id": 4,
       "title": "The Dark Knight",
       "score": 4.9,
       "count": 350,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDp9QmSbmIisYv1haBm.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDp9QmSbmIisYv1haBm.jpg"
     },
     {
       "id": 5,
       "title": "The Matrix",
       "score": 4.7,
       "count": 180,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3Y9L7dbptvTMRccp9zSTBh6.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/f89U3Y9L7dbptvTMRccp9zSTBh6.jpg"
     },
     {
       "id": 6,
       "title": "Interstellar",
       "score": 4.8,
       "count": 240,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlSaba7.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlSaba7.jpg"
     },
     {
       "id": 7,
       "title": "Dune: Part Two",
       "score": 4.9,
       "count": 85,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/66769uCc7991o7h9qT696I9S66P.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/66769uCc7991o7h9qT696I9S66P.jpg"
     },
     {
       "id": 8,
       "title": "Pulp Fiction",
       "score": 4.6,
       "count": 195,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIl9h9btztU0kzUvO1nqzYvS1.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/d5iIl9h9btztU0kzUvO1nqzYvS1.jpg"
     },
     {
       "id": 9,
       "title": "Oppenheimer",
       "score": 4.8,
       "count": 120,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GxvA9zLZ0a7GcmK8P9S3sygCjo.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/8GxvA9zLZ0a7GcmK8P9S3sygCjo.jpg"
     },
     {
       "id": 10,
       "title": "Blade Runner 2049",
       "score": 4.5,
       "count": 98,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gajva2L0vQEWk7vNneZ2subJAcm.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/gajva2L0vQEWk7vNneZ2subJAcm.jpg"
     },
     {
       "id": 11,
       "title": "Parasite",
       "score": 4.7,
       "count": 115,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7S96db0v9v4cc7u9fC9tr9IL75y.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/7S96db0v9v4cc7u9fC9tr9IL75y.jpg"
     },
     {
       "id": 12,
       "title": "The Batman",
       "score": 4.4,
       "count": 65,
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T65CcAs.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T65CcAs.jpg"
     }
   ],
   "last": true,
